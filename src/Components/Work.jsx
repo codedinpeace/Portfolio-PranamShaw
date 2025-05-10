@@ -48,7 +48,7 @@ const Work = () => {
     return (
         <div className='mt-0  max-xl:mt-20' id='WORK'>
             <div className='flex overflow-hidden mt-30 mb-20'>
-                <h1 className='work max-xl:text-[9rem] max-lg:text-[8rem] max-md:text-[7rem] mx-auto text-[10rem] font-extralight text-shadow-2xs '>WORK</h1>
+                <h1 className='work max-xl:text-[9rem] max-lg:text-[8rem] max-md:text-[4rem] mx-auto text-[10rem] font-extralight text-shadow-2xs '>WORK</h1>
             </div>
             <div className='aboutBox z-50 w-auto   border-2 border-black'>
                 <div className='videos'>
