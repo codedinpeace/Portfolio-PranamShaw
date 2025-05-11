@@ -82,11 +82,11 @@ const Navbar = () => {
     <div>
         <div className='ml-10 flex justify-evenly mt-5 max-lg:hidden'>
             <p className='logo text-[#312E2E]  tracking-wide text-3xl '>PS</p>
-            <div className='Navlinks flex justify-evenly text-[#312E2E] z-999 align-middle rounded-full bg-[#e9e7e7] w-[450px] h-[50px] '>
-                <a className='my-auto tracking-wide overflow-hidden'  href="#Home">HOME</a>
-                <a className='my-auto tracking-wide '  href="#About">ABOUT</a>
-                <a  className='my-auto tracking-wide ' href="#WORK">WORK</a>
-                <a  className='my-auto tracking-wide ' href="#CONTACT">CONTACT</a>
+            <div className='Navlinks relative flex justify-evenly text-[#312E2E] z-999 align-middle rounded-full bg-[#e9e7e7] w-[450px] h-[50px] '>
+                <a className='my-auto relative  tracking-wide overflow-hidden'  href="#Home">HOME</a>
+                <a className='my-auto relative  tracking-wide '  href="#About">ABOUT</a>
+                <a  className='my-auto relative  tracking-wide ' href="#WORK">WORK</a>
+                <a  className='my-auto  relative tracking-wide ' href="#CONTACT">CONTACT</a>
             </div>
             <div className='menu flex gap-2 font-extralight mt-3'>
                 EN

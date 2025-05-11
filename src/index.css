@@ -225,3 +225,66 @@ body::-webkit-scrollbar-thumb:hover {
 .menu{
   font-family: "Lexend Mega";
 }
+
+.Navlinks a::before{
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0; 
+  background-color: #2C2C2C;
+  right: 0;
+  bottom: 0;
+  height: 1px;
+  border-radius: 150px;
+  transform: scaleX(0);
+  z-index: -1;
+  transition: transform 0.3s ease-in-out;
+  transform-origin: right;
+}
+
+.Navlinks a:hover::before{
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.OrSection a::before{
+  content: " ";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: #f7f7f7;
+  z-index: 2;
+  transform : scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 150px;
+}
+
+.OrSection a:hover::before{
+  transform: scaleX(1);
+  transform-origin: left;
+
+}
+
+.HIRE a::before{
+  content: "";
+  transform-origin: right;
+  transform: scaleX(0);
+  background: #f7f7f7;
+  height: 2px;
+  border-radius: 150px;
+  z-index: 2;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: transform 0.3s ease-in-out;
+}
+
+.HIRE a:hover::before{
+  transform-origin: left;
+  transform: scaleX(1);
+  transition: transform 0.3s ease-in-out;
+}

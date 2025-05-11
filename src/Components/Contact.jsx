@@ -78,10 +78,10 @@ const Contact = () => {
               <FaArrowLeft className='items-center max-md:mt-12  mt-13 w-5 h-5 mr-5' />
               <h1 className='text-4xl font-extralight max-md:text-3xl mt-10 mr-7'>CONNECT</h1>
             </div>
-            <div className='flex justify-center gap-5 mx-auto flex-col max-md:text-2xl text-3xl mt-10'>
-              <a className='mx-auto' href="https://wa.me/916289771022" target="_blank" rel="noopener noreferrer">WHATSAPP</a>
-              <a className='mx-auto' href="https://www.instagram.com/__i.am.alive__/">INSTAGRAM</a>
-              <a className='mx-auto' href="https://x.com/_PranamShaw_">TWITTER</a>
+            <div className='OrSection relative flex justify-center gap-5 mx-auto flex-col max-md:text-2xl text-3xl mt-10'>
+              <a className='mx-auto relative' href="https://wa.me/916289771022" target="_blank" rel="noopener noreferrer">WHATSAPP</a>
+              <a className='mx-auto relative' href="https://www.instagram.com/__i.am.alive__/">INSTAGRAM</a>
+              <a className='mx-auto relative' href="https://x.com/_PranamShaw_">TWITTER</a>
             </div>
             <div className='flex mt-10 '>
               <h1 className='Match2 mx-auto text-6xl'>OR</h1>
@@ -90,14 +90,14 @@ const Contact = () => {
               <FaArrowLeft className='items-center  mt-13 w-5 h-5 mr-5 max-md:mt-12' />
               <h1 className='text-4xl font-extralight mt-10 max-md:text-4xl mr-7'>HIRE ME</h1>
             </div>
-            <div className='flex justify-center gap-5 mx-auto flex-col text-3xl max-md:text-2xl mt-10'>
-              <a className='mx-auto' href="https://wa.me/916289771022" target="_blank" rel="noopener noreferrer">FIVERR</a>
-              <a className='mx-auto' href="https://www.instagram.com/__i.am.alive__/">UPWORK</a>
+            <div className='flex HIRE relative justify-center gap-5 mx-auto flex-col text-3xl max-md:text-2xl mt-10'>
+              <a className='mx-auto relative' href="https://wa.me/916289771022" target="_blank" rel="noopener noreferrer">FIVERR</a>
+              <a className='mx-auto relative' href="https://www.instagram.com/__i.am.alive__/">UPWORK</a>
             </div>
           </div>
           <div className='max-lg:mx-auto mt-10 ml-20  aboutBox z-50 w-[350px]] max-lg:w-[400px] max-xl:w-[400px]  max-sm:h-[250px] max-md:w-[400px] max-sm:w-[300px] h-[200px] max-md:h-[250px] rounded-[5rem] border-2 border-black '>
             <div className='flex justify-center'>
-              <a href=""><h1 className='text-2xl font-extralight ml-4 mt-10 mr-7 max-md:text-xl'>PRIVACY POLICY</h1></a>
+              <h1 className='text-2xl font-extralight ml-4 mt-10 mr-7 max-md:text-xl'>All rights Reserved</h1>
             </div>
             <div className='flex justify-center'>
           <h1 className=' text-xl font-extralight max-md:text-[16px] ml-4 mt-10 mr-7'>PRANAM SHAW &copy;, {new Date().getFullYear()}</h1>

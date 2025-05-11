@@ -23,7 +23,7 @@ const About = () => {
                         <p className='md:hidden AboutPara'>HEY I AM PRANAM SHAW, A 16 Y/O FRONT END DEVELOPER AND DESIGNER WHO HAS WORK ON OVER 20+ PROJECTS FROM INDIA WHO IS WILLING TO CONVERT YOUR IDEAS INTO REALITY</p>
                     </div>  
                     <div className='flex justify-center max-md:mt-9 '>
-                    <a href="https://nova-saas.vercel.app/" className='visitBtn'><button className='relative mt-10 max-md:mt-2 border-4 text-[#2C2C2C]  border-[#2C2C2C] max-md:w-[200px] max-md:text-[16px] max-md:bg-[#2c2c2c] max-md:text-[#f7f7f7] w-[250px] cursor-pointer hover:shadow-2xl transition-all duration-200 h-[70px] rounded-[20px] text-xl font-medium '>LEARN MORE</button></a>
+                    <a href="https://instagram.com/webgrock" className='visitBtn'><button className='relative mt-10 max-md:mt-2 border-4 text-[#2C2C2C]  border-[#2C2C2C] max-md:w-[200px] max-md:text-[16px] max-md:bg-[#2c2c2c] max-md:text-[#f7f7f7] w-[250px] cursor-pointer hover:shadow-2xl transition-all duration-200 h-[70px] rounded-[20px] text-xl font-medium '>LEARN MORE</button></a>
                     </div>
                 </div>
             </div>
