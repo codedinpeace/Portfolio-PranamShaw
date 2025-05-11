@@ -81,7 +81,7 @@ const Contact = () => {
             <div className='flex justify-center gap-5 mx-auto flex-col max-md:text-2xl text-3xl mt-10'>
               <a className='mx-auto' href="https://wa.me/916289771022" target="_blank" rel="noopener noreferrer">WHATSAPP</a>
               <a className='mx-auto' href="https://www.instagram.com/__i.am.alive__/">INSTAGRAM</a>
-              <a className='mx-auto' href="https://x.com/PranamShaw">TWITTER</a>
+              <a className='mx-auto' href="https://x.com/_PranamShaw_">TWITTER</a>
             </div>
             <div className='flex mt-10 '>
               <h1 className='Match2 mx-auto text-6xl'>OR</h1>
