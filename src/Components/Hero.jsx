@@ -57,10 +57,10 @@ const Hero = () => {
       </div> */}
       <div className="rope absolute top-0 left-1/2 -translate-x-1/2 flex gap-172 max-xl:gap-150 max-lg:gap-110 max-md:gap-80 max-sm:gap-50 z-[0]">
   {/* Left Rope */}
-  <div className="w-px h-[60.875rem] max-md:h-[40.875rem] bg-black"></div>
+  <div className="w-px h-[65.875rem] max-md:h-[40.875rem] bg-black"></div>
   
   {/* Right Rope */}
-  <div className="w-px h-[60.875rem] max-md:h-[40.875rem]  bg-black"></div>
+  <div className="w-px h-[65.875rem] max-md:h-[40.875rem]  bg-black"></div>
 </div>
       <div className='flex justify-center overflow-hidden'>
         <h1 className='Headline text-[9rem] mx-auto overflow-hidden max-xl:text-[7rem] max-lg:text-[5rem] max-sm:text-[2rem] max-md:text-[3rem] max-md:tracking-[20px] tracking-[20px] '>
