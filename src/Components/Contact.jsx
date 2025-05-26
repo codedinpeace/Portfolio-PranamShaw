@@ -91,8 +91,8 @@ const Contact = () => {
               <h1 className='text-4xl font-extralight mt-10 max-md:text-4xl mr-7'>CONNECT</h1>
             </div>
             <div className='flex HIRE relative justify-center gap-5 mx-auto flex-col text-3xl max-md:text-2xl mt-10'>
-              <a className='mx-auto relative' href="https://linkedin.com/pranamshaw" target="_blank" rel="noopener noreferrer">LINKEDIN</a>
-              <a className='mx-auto relative' href="https://linkedin.com/pranamshaw" target="_blank" rel="noopener noreferrer">TWINE</a>
+              <a className='mx-auto relative' href="https://www.linkedin.com/in/pranam-shaw-1504ba359/ " target="_blank" rel="noopener noreferrer">LINKEDIN</a>
+              <a className='mx-auto relative' href="https://www.twine.net/Pranam" target="_blank" rel="noopener noreferrer">TWINE</a>
               
             </div>
           </div>
