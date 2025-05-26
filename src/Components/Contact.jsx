@@ -88,11 +88,12 @@ const Contact = () => {
             </div>
             <div className='flex  justify-center gap-2'>
               <FaArrowLeft className='items-center  mt-13 w-5 h-5 mr-5 max-md:mt-12' />
-              <h1 className='text-4xl font-extralight mt-10 max-md:text-4xl mr-7'>HIRE ME</h1>
+              <h1 className='text-4xl font-extralight mt-10 max-md:text-4xl mr-7'>CONNECT</h1>
             </div>
             <div className='flex HIRE relative justify-center gap-5 mx-auto flex-col text-3xl max-md:text-2xl mt-10'>
-              <a className='mx-auto relative' href="https://wa.me/916289771022" target="_blank" rel="noopener noreferrer">FIVERR</a>
-              <a className='mx-auto relative' href="https://www.instagram.com/__i.am.alive__/">UPWORK</a>
+              <a className='mx-auto relative' href="https://linkedin.com/pranamshaw" target="_blank" rel="noopener noreferrer">LINKEDIN</a>
+              <a className='mx-auto relative' href="https://linkedin.com/pranamshaw" target="_blank" rel="noopener noreferrer">TWINE</a>
+              
             </div>
           </div>
           <div className='max-lg:mx-auto mt-10 ml-20  aboutBox z-50 w-[350px]] max-lg:w-[400px] max-xl:w-[400px]  max-sm:h-[250px] max-md:w-[400px] max-sm:w-[300px] h-[200px] max-md:h-[250px] rounded-[5rem] border-2 border-black '>
